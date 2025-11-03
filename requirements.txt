@@ -1,0 +1,7 @@
+pandas
+pyarrow
+protobuf
+tensorflow-data-validation
+IPython
+facets
+

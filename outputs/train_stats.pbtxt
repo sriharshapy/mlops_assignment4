@@ -1,0 +1,2680 @@
+datasets {
+  num_examples: 26050
+  features {
+    type: FLOAT
+    num_stats {
+      common_stats {
+        num_non_missing: 26049
+        num_missing: 1
+        min_num_values: 1
+        max_num_values: 1
+        avg_num_values: 1.0
+        num_values_histogram {
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          type: QUANTILES
+        }
+        tot_num_values: 26049
+      }
+      mean: 38.538101270682176
+      std_dev: 13.642139387971442
+      min: 17.0
+      median: 37.0
+      max: 90.0
+      histograms {
+        buckets {
+          low_value: 17.0
+          high_value: 24.3
+          sample_count: 4505.707692307696
+        }
+        buckets {
+          low_value: 24.3
+          high_value: 31.6
+          sample_count: 4711.776923076921
+        }
+        buckets {
+          low_value: 31.6
+          high_value: 38.9
+          sample_count: 4842.292307692324
+        }
+        buckets {
+          low_value: 38.9
+          high_value: 46.2
+          sample_count: 4925.518315018304
+        }
+        buckets {
+          low_value: 46.2
+          high_value: 53.5
+          sample_count: 3140.0124542124568
+        }
+        buckets {
+          low_value: 53.5
+          high_value: 60.8
+          sample_count: 2082.203418803416
+        }
+        buckets {
+          low_value: 60.8
+          high_value: 68.1
+          sample_count: 1268.188888888888
+        }
+        buckets {
+          low_value: 68.1
+          high_value: 75.4
+          sample_count: 391.7000000000003
+        }
+        buckets {
+          low_value: 75.4
+          high_value: 82.7
+          sample_count: 127.79999999999993
+        }
+        buckets {
+          low_value: 82.7
+          high_value: 90.0
+          sample_count: 53.79999999999998
+        }
+      }
+      histograms {
+        buckets {
+          low_value: 17.0
+          high_value: 22.0
+          sample_count: 3147.0
+        }
+        buckets {
+          low_value: 22.0
+          high_value: 26.0
+          sample_count: 2646.0
+        }
+        buckets {
+          low_value: 26.0
+          high_value: 30.0
+          sample_count: 2688.0
+        }
+        buckets {
+          low_value: 30.0
+          high_value: 33.0
+          sample_count: 2087.0
+        }
+        buckets {
+          low_value: 33.0
+          high_value: 37.0
+          sample_count: 2801.0
+        }
+        buckets {
+          low_value: 37.0
+          high_value: 41.0
+          sample_count: 2621.0
+        }
+        buckets {
+          low_value: 41.0
+          high_value: 45.0
+          sample_count: 2407.0
+        }
+        buckets {
+          low_value: 45.0
+          high_value: 50.0
+          sample_count: 2502.0
+        }
+        buckets {
+          low_value: 50.0
+          high_value: 58.0
+          sample_count: 2749.0
+        }
+        buckets {
+          low_value: 58.0
+          high_value: 90.0
+          sample_count: 2401.0
+        }
+        type: QUANTILES
+      }
+    }
+    path {
+      step: "age"
+    }
+  }
+  features {
+    type: STRING
+    string_stats {
+      common_stats {
+        num_non_missing: 24609
+        num_missing: 1441
+        min_num_values: 1
+        max_num_values: 1
+        avg_num_values: 1.0
+        num_values_histogram {
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.9
+          }
+          type: QUANTILES
+        }
+        tot_num_values: 24609
+      }
+      unique: 9
+      top_values {
+        value: "Private"
+        frequency: 18129.0
+      }
+      top_values {
+        value: "Self-emp-not-inc"
+        frequency: 2057.0
+      }
+      top_values {
+        value: "Local-gov"
+        frequency: 1703.0
+      }
+      top_values {
+        value: "State-gov"
+        frequency: 1051.0
+      }
+      top_values {
+        value: "Self-emp-inc"
+        frequency: 867.0
+      }
+      top_values {
+        value: "Federal-gov"
+        frequency: 783.0
+      }
+      top_values {
+        value: "Without-pay"
+        frequency: 13.0
+      }
+      top_values {
+        value: "Never-worked"
+        frequency: 5.0
+      }
+      top_values {
+        value: "workclass"
+        frequency: 1.0
+      }
+      avg_length: 8.2827425
+      rank_histogram {
+        buckets {
+          label: "Private"
+          sample_count: 18129.0
+        }
+        buckets {
+          low_rank: 1
+          high_rank: 1
+          label: "Self-emp-not-inc"
+          sample_count: 2057.0
+        }
+        buckets {
+          low_rank: 2
+          high_rank: 2
+          label: "Local-gov"
+          sample_count: 1703.0
+        }
+        buckets {
+          low_rank: 3
+          high_rank: 3
+          label: "State-gov"
+          sample_count: 1051.0
+        }
+        buckets {
+          low_rank: 4
+          high_rank: 4
+          label: "Self-emp-inc"
+          sample_count: 867.0
+        }
+        buckets {
+          low_rank: 5
+          high_rank: 5
+          label: "Federal-gov"
+          sample_count: 783.0
+        }
+        buckets {
+          low_rank: 6
+          high_rank: 6
+          label: "Without-pay"
+          sample_count: 13.0
+        }
+        buckets {
+          low_rank: 7
+          high_rank: 7
+          label: "Never-worked"
+          sample_count: 5.0
+        }
+        buckets {
+          low_rank: 8
+          high_rank: 8
+          label: "workclass"
+          sample_count: 1.0
+        }
+      }
+    }
+    path {
+      step: "workclass"
+    }
+  }
+  features {
+    type: FLOAT
+    num_stats {
+      common_stats {
+        num_non_missing: 26049
+        num_missing: 1
+        min_num_values: 1
+        max_num_values: 1
+        avg_num_values: 1.0
+        num_values_histogram {
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          type: QUANTILES
+        }
+        tot_num_values: 26049
+      }
+      mean: 189472.8832584744
+      std_dev: 105273.19139815109
+      min: 13769.0
+      median: 178136.0
+      max: 1484705.0
+      histograms {
+        buckets {
+          low_value: 13769.0
+          high_value: 160862.6
+          sample_count: 10675.446753246753
+        }
+        buckets {
+          low_value: 160862.6
+          high_value: 307956.2
+          sample_count: 12134.491529815892
+        }
+        buckets {
+          low_value: 307956.2
+          high_value: 455049.80000000005
+          sample_count: 2767.0955126498393
+        }
+        buckets {
+          low_value: 455049.80000000005
+          high_value: 602143.4
+          sample_count: 360.96662861566256
+        }
+        buckets {
+          low_value: 602143.4
+          high_value: 749237.0
+          sample_count: 75.3360064961244
+        }
+        buckets {
+          low_value: 749237.0
+          high_value: 896330.6000000001
+          sample_count: 16.778562522912118
+        }
+        buckets {
+          low_value: 896330.6000000001
+          high_value: 1043424.2000000001
+          sample_count: 4.721251663204089
+        }
+        buckets {
+          low_value: 1043424.2000000001
+          high_value: 1190517.8
+          sample_count: 4.721251663204089
+        }
+        buckets {
+          low_value: 1190517.8
+          high_value: 1337611.4000000001
+          sample_count: 4.721251663204092
+        }
+        buckets {
+          low_value: 1337611.4000000001
+          high_value: 1484705.0
+          sample_count: 4.721251663204085
+        }
+      }
+      histograms {
+        buckets {
+          low_value: 13769.0
+          high_value: 65466.0
+          sample_count: 2607.0
+        }
+        buckets {
+          low_value: 65466.0
+          high_value: 106595.0
+          sample_count: 2604.0
+        }
+        buckets {
+          low_value: 106595.0
+          high_value: 130849.0
+          sample_count: 2608.0
+        }
+        buckets {
+          low_value: 130849.0
+          high_value: 158647.0
+          sample_count: 2601.0
+        }
+        buckets {
+          low_value: 158647.0
+          high_value: 178136.0
+          sample_count: 2606.0
+        }
+        buckets {
+          low_value: 178136.0
+          high_value: 195750.0
+          sample_count: 2604.0
+        }
+        buckets {
+          low_value: 195750.0
+          high_value: 219233.0
+          sample_count: 2606.0
+        }
+        buckets {
+          low_value: 219233.0
+          high_value: 259463.0
+          sample_count: 2606.0
+        }
+        buckets {
+          low_value: 259463.0
+          high_value: 328561.0
+          sample_count: 2607.0
+        }
+        buckets {
+          low_value: 328561.0
+          high_value: 1484705.0
+          sample_count: 2600.0
+        }
+        type: QUANTILES
+      }
+    }
+    path {
+      step: "fnlwgt"
+    }
+  }
+  features {
+    type: STRING
+    string_stats {
+      common_stats {
+        num_non_missing: 26050
+        min_num_values: 1
+        max_num_values: 1
+        avg_num_values: 1.0
+        num_values_histogram {
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          type: QUANTILES
+        }
+        tot_num_values: 26050
+      }
+      unique: 17
+      top_values {
+        value: "HS-grad"
+        frequency: 8437.0
+      }
+      top_values {
+        value: "Some-college"
+        frequency: 5824.0
+      }
+      top_values {
+        value: "Bachelors"
+        frequency: 4299.0
+      }
+      top_values {
+        value: "Masters"
+        frequency: 1381.0
+      }
+      top_values {
+        value: "Assoc-voc"
+        frequency: 1093.0
+      }
+      top_values {
+        value: "11th"
+        frequency: 954.0
+      }
+      top_values {
+        value: "Assoc-acdm"
+        frequency: 845.0
+      }
+      top_values {
+        value: "10th"
+        frequency: 747.0
+      }
+      top_values {
+        value: "7th-8th"
+        frequency: 504.0
+      }
+      top_values {
+        value: "Prof-school"
+        frequency: 452.0
+      }
+      top_values {
+        value: "9th"
+        frequency: 401.0
+      }
+      top_values {
+        value: "12th"
+        frequency: 338.0
+      }
+      top_values {
+        value: "Doctorate"
+        frequency: 332.0
+      }
+      top_values {
+        value: "5th-6th"
+        frequency: 270.0
+      }
+      top_values {
+        value: "1st-4th"
+        frequency: 134.0
+      }
+      top_values {
+        value: "Preschool"
+        frequency: 38.0
+      }
+      top_values {
+        value: "education"
+        frequency: 1.0
+      }
+      avg_length: 8.430634
+      rank_histogram {
+        buckets {
+          label: "HS-grad"
+          sample_count: 8437.0
+        }
+        buckets {
+          low_rank: 1
+          high_rank: 1
+          label: "Some-college"
+          sample_count: 5824.0
+        }
+        buckets {
+          low_rank: 2
+          high_rank: 2
+          label: "Bachelors"
+          sample_count: 4299.0
+        }
+        buckets {
+          low_rank: 3
+          high_rank: 3
+          label: "Masters"
+          sample_count: 1381.0
+        }
+        buckets {
+          low_rank: 4
+          high_rank: 4
+          label: "Assoc-voc"
+          sample_count: 1093.0
+        }
+        buckets {
+          low_rank: 5
+          high_rank: 5
+          label: "11th"
+          sample_count: 954.0
+        }
+        buckets {
+          low_rank: 6
+          high_rank: 6
+          label: "Assoc-acdm"
+          sample_count: 845.0
+        }
+        buckets {
+          low_rank: 7
+          high_rank: 7
+          label: "10th"
+          sample_count: 747.0
+        }
+        buckets {
+          low_rank: 8
+          high_rank: 8
+          label: "7th-8th"
+          sample_count: 504.0
+        }
+        buckets {
+          low_rank: 9
+          high_rank: 9
+          label: "Prof-school"
+          sample_count: 452.0
+        }
+        buckets {
+          low_rank: 10
+          high_rank: 10
+          label: "9th"
+          sample_count: 401.0
+        }
+        buckets {
+          low_rank: 11
+          high_rank: 11
+          label: "12th"
+          sample_count: 338.0
+        }
+        buckets {
+          low_rank: 12
+          high_rank: 12
+          label: "Doctorate"
+          sample_count: 332.0
+        }
+        buckets {
+          low_rank: 13
+          high_rank: 13
+          label: "5th-6th"
+          sample_count: 270.0
+        }
+        buckets {
+          low_rank: 14
+          high_rank: 14
+          label: "1st-4th"
+          sample_count: 134.0
+        }
+        buckets {
+          low_rank: 15
+          high_rank: 15
+          label: "Preschool"
+          sample_count: 38.0
+        }
+        buckets {
+          low_rank: 16
+          high_rank: 16
+          label: "education"
+          sample_count: 1.0
+        }
+      }
+    }
+    path {
+      step: "education"
+    }
+  }
+  features {
+    type: FLOAT
+    num_stats {
+      common_stats {
+        num_non_missing: 26049
+        num_missing: 1
+        min_num_values: 1
+        max_num_values: 1
+        avg_num_values: 1.0
+        num_values_histogram {
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          type: QUANTILES
+        }
+        tot_num_values: 26049
+      }
+      mean: 10.082920649545088
+      std_dev: 2.567473221929578
+      min: 1.0
+      median: 10.0
+      max: 16.0
+      histograms {
+        buckets {
+          low_value: 1.0
+          high_value: 2.5
+          sample_count: 185.5
+        }
+        buckets {
+          low_value: 2.5
+          high_value: 4.0
+          sample_count: 760.5000000000003
+        }
+        buckets {
+          low_value: 4.0
+          high_value: 5.5
+          sample_count: 413.87931034482773
+        }
+        buckets {
+          low_value: 5.5
+          high_value: 7.0
+          sample_count: 1688.1206896551707
+        }
+        buckets {
+          low_value: 7.0
+          high_value: 8.5
+          sample_count: 351.02006172839504
+        }
+        buckets {
+          low_value: 8.5
+          high_value: 10.0
+          sample_count: 14247.979938271577
+        }
+        buckets {
+          low_value: 10.0
+          high_value: 11.5
+          sample_count: 1106.2031250000002
+        }
+        buckets {
+          low_value: 11.5
+          high_value: 13.0
+          sample_count: 5130.796874999992
+        }
+        buckets {
+          low_value: 13.0
+          high_value: 14.5
+          sample_count: 1393.555555555555
+        }
+        buckets {
+          low_value: 14.5
+          high_value: 16.0
+          sample_count: 771.4444444444443
+        }
+      }
+      histograms {
+        buckets {
+          low_value: 1.0
+          high_value: 7.0
+          sample_count: 3048.0
+        }
+        buckets {
+          low_value: 7.0
+          high_value: 9.0
+          sample_count: 2925.0
+        }
+        buckets {
+          low_value: 9.0
+          high_value: 9.0
+          sample_count: 2925.0
+        }
+        buckets {
+          low_value: 9.0
+          high_value: 9.0
+          sample_count: 2925.0
+        }
+        buckets {
+          low_value: 9.0
+          high_value: 10.0
+          sample_count: 2912.0
+        }
+        buckets {
+          low_value: 10.0
+          high_value: 10.0
+          sample_count: 2912.0
+        }
+        buckets {
+          low_value: 10.0
+          high_value: 11.0
+          sample_count: 1093.0
+        }
+        buckets {
+          low_value: 11.0
+          high_value: 13.0
+          sample_count: 2572.0
+        }
+        buckets {
+          low_value: 13.0
+          high_value: 13.0
+          sample_count: 2572.0
+        }
+        buckets {
+          low_value: 13.0
+          high_value: 16.0
+          sample_count: 2165.0
+        }
+        type: QUANTILES
+      }
+    }
+    path {
+      step: "education-num"
+    }
+  }
+  features {
+    type: STRING
+    string_stats {
+      common_stats {
+        num_non_missing: 26050
+        min_num_values: 1
+        max_num_values: 1
+        avg_num_values: 1.0
+        num_values_histogram {
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          type: QUANTILES
+        }
+        tot_num_values: 26050
+      }
+      unique: 8
+      top_values {
+        value: "Married-civ-spouse"
+        frequency: 11957.0
+      }
+      top_values {
+        value: "Never-married"
+        frequency: 8569.0
+      }
+      top_values {
+        value: "Divorced"
+        frequency: 3570.0
+      }
+      top_values {
+        value: "Separated"
+        frequency: 810.0
+      }
+      top_values {
+        value: "Widowed"
+        frequency: 792.0
+      }
+      top_values {
+        value: "Married-spouse-absent"
+        frequency: 331.0
+      }
+      top_values {
+        value: "Married-AF-spouse"
+        frequency: 20.0
+      }
+      top_values {
+        value: "marital-status"
+        frequency: 1.0
+      }
+      avg_length: 14.407754
+      rank_histogram {
+        buckets {
+          label: "Married-civ-spouse"
+          sample_count: 11957.0
+        }
+        buckets {
+          low_rank: 1
+          high_rank: 1
+          label: "Never-married"
+          sample_count: 8569.0
+        }
+        buckets {
+          low_rank: 2
+          high_rank: 2
+          label: "Divorced"
+          sample_count: 3570.0
+        }
+        buckets {
+          low_rank: 3
+          high_rank: 3
+          label: "Separated"
+          sample_count: 810.0
+        }
+        buckets {
+          low_rank: 4
+          high_rank: 4
+          label: "Widowed"
+          sample_count: 792.0
+        }
+        buckets {
+          low_rank: 5
+          high_rank: 5
+          label: "Married-spouse-absent"
+          sample_count: 331.0
+        }
+        buckets {
+          low_rank: 6
+          high_rank: 6
+          label: "Married-AF-spouse"
+          sample_count: 20.0
+        }
+        buckets {
+          low_rank: 7
+          high_rank: 7
+          label: "marital-status"
+          sample_count: 1.0
+        }
+      }
+    }
+    path {
+      step: "marital-status"
+    }
+  }
+  features {
+    type: STRING
+    string_stats {
+      common_stats {
+        num_non_missing: 24604
+        num_missing: 1446
+        min_num_values: 1
+        max_num_values: 1
+        avg_num_values: 1.0
+        num_values_histogram {
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.4
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.4
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.4
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.4
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.4
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.4
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.4
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.4
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.4
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2460.4
+          }
+          type: QUANTILES
+        }
+        tot_num_values: 24604
+      }
+      unique: 15
+      top_values {
+        value: "Prof-specialty"
+        frequency: 3308.0
+      }
+      top_values {
+        value: "Craft-repair"
+        frequency: 3267.0
+      }
+      top_values {
+        value: "Exec-managerial"
+        frequency: 3245.0
+      }
+      top_values {
+        value: "Adm-clerical"
+        frequency: 3040.0
+      }
+      top_values {
+        value: "Sales"
+        frequency: 2898.0
+      }
+      top_values {
+        value: "Other-service"
+        frequency: 2661.0
+      }
+      top_values {
+        value: "Machine-op-inspct"
+        frequency: 1606.0
+      }
+      top_values {
+        value: "Transport-moving"
+        frequency: 1271.0
+      }
+      top_values {
+        value: "Handlers-cleaners"
+        frequency: 1100.0
+      }
+      top_values {
+        value: "Farming-fishing"
+        frequency: 795.0
+      }
+      top_values {
+        value: "Tech-support"
+        frequency: 754.0
+      }
+      top_values {
+        value: "Protective-serv"
+        frequency: 526.0
+      }
+      top_values {
+        value: "Priv-house-serv"
+        frequency: 124.0
+      }
+      top_values {
+        value: "Armed-Forces"
+        frequency: 8.0
+      }
+      top_values {
+        value: "occupation"
+        frequency: 1.0
+      }
+      avg_length: 12.880873
+      rank_histogram {
+        buckets {
+          label: "Prof-specialty"
+          sample_count: 3308.0
+        }
+        buckets {
+          low_rank: 1
+          high_rank: 1
+          label: "Craft-repair"
+          sample_count: 3267.0
+        }
+        buckets {
+          low_rank: 2
+          high_rank: 2
+          label: "Exec-managerial"
+          sample_count: 3245.0
+        }
+        buckets {
+          low_rank: 3
+          high_rank: 3
+          label: "Adm-clerical"
+          sample_count: 3040.0
+        }
+        buckets {
+          low_rank: 4
+          high_rank: 4
+          label: "Sales"
+          sample_count: 2898.0
+        }
+        buckets {
+          low_rank: 5
+          high_rank: 5
+          label: "Other-service"
+          sample_count: 2661.0
+        }
+        buckets {
+          low_rank: 6
+          high_rank: 6
+          label: "Machine-op-inspct"
+          sample_count: 1606.0
+        }
+        buckets {
+          low_rank: 7
+          high_rank: 7
+          label: "Transport-moving"
+          sample_count: 1271.0
+        }
+        buckets {
+          low_rank: 8
+          high_rank: 8
+          label: "Handlers-cleaners"
+          sample_count: 1100.0
+        }
+        buckets {
+          low_rank: 9
+          high_rank: 9
+          label: "Farming-fishing"
+          sample_count: 795.0
+        }
+        buckets {
+          low_rank: 10
+          high_rank: 10
+          label: "Tech-support"
+          sample_count: 754.0
+        }
+        buckets {
+          low_rank: 11
+          high_rank: 11
+          label: "Protective-serv"
+          sample_count: 526.0
+        }
+        buckets {
+          low_rank: 12
+          high_rank: 12
+          label: "Priv-house-serv"
+          sample_count: 124.0
+        }
+        buckets {
+          low_rank: 13
+          high_rank: 13
+          label: "Armed-Forces"
+          sample_count: 8.0
+        }
+        buckets {
+          low_rank: 14
+          high_rank: 14
+          label: "occupation"
+          sample_count: 1.0
+        }
+      }
+    }
+    path {
+      step: "occupation"
+    }
+  }
+  features {
+    type: STRING
+    string_stats {
+      common_stats {
+        num_non_missing: 26050
+        min_num_values: 1
+        max_num_values: 1
+        avg_num_values: 1.0
+        num_values_histogram {
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          type: QUANTILES
+        }
+        tot_num_values: 26050
+      }
+      unique: 7
+      top_values {
+        value: "Husband"
+        frequency: 10550.0
+      }
+      top_values {
+        value: "Not-in-family"
+        frequency: 6659.0
+      }
+      top_values {
+        value: "Own-child"
+        frequency: 4062.0
+      }
+      top_values {
+        value: "Unmarried"
+        frequency: 2756.0
+      }
+      top_values {
+        value: "Wife"
+        frequency: 1241.0
+      }
+      top_values {
+        value: "Other-relative"
+        frequency: 781.0
+      }
+      top_values {
+        value: "relationship"
+        frequency: 1.0
+      }
+      avg_length: 9.124338
+      rank_histogram {
+        buckets {
+          label: "Husband"
+          sample_count: 10550.0
+        }
+        buckets {
+          low_rank: 1
+          high_rank: 1
+          label: "Not-in-family"
+          sample_count: 6659.0
+        }
+        buckets {
+          low_rank: 2
+          high_rank: 2
+          label: "Own-child"
+          sample_count: 4062.0
+        }
+        buckets {
+          low_rank: 3
+          high_rank: 3
+          label: "Unmarried"
+          sample_count: 2756.0
+        }
+        buckets {
+          low_rank: 4
+          high_rank: 4
+          label: "Wife"
+          sample_count: 1241.0
+        }
+        buckets {
+          low_rank: 5
+          high_rank: 5
+          label: "Other-relative"
+          sample_count: 781.0
+        }
+        buckets {
+          low_rank: 6
+          high_rank: 6
+          label: "relationship"
+          sample_count: 1.0
+        }
+      }
+    }
+    path {
+      step: "relationship"
+    }
+  }
+  features {
+    type: STRING
+    string_stats {
+      common_stats {
+        num_non_missing: 26050
+        min_num_values: 1
+        max_num_values: 1
+        avg_num_values: 1.0
+        num_values_histogram {
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          type: QUANTILES
+        }
+        tot_num_values: 26050
+      }
+      unique: 6
+      top_values {
+        value: "White"
+        frequency: 22215.0
+      }
+      top_values {
+        value: "Black"
+        frequency: 2543.0
+      }
+      top_values {
+        value: "Asian-Pac-Islander"
+        frequency: 832.0
+      }
+      top_values {
+        value: "Amer-Indian-Eskimo"
+        frequency: 251.0
+      }
+      top_values {
+        value: "Other"
+        frequency: 208.0
+      }
+      top_values {
+        value: "race"
+        frequency: 1.0
+      }
+      avg_length: 5.5404224
+      rank_histogram {
+        buckets {
+          label: "White"
+          sample_count: 22215.0
+        }
+        buckets {
+          low_rank: 1
+          high_rank: 1
+          label: "Black"
+          sample_count: 2543.0
+        }
+        buckets {
+          low_rank: 2
+          high_rank: 2
+          label: "Asian-Pac-Islander"
+          sample_count: 832.0
+        }
+        buckets {
+          low_rank: 3
+          high_rank: 3
+          label: "Amer-Indian-Eskimo"
+          sample_count: 251.0
+        }
+        buckets {
+          low_rank: 4
+          high_rank: 4
+          label: "Other"
+          sample_count: 208.0
+        }
+        buckets {
+          low_rank: 5
+          high_rank: 5
+          label: "race"
+          sample_count: 1.0
+        }
+      }
+    }
+    path {
+      step: "race"
+    }
+  }
+  features {
+    type: STRING
+    string_stats {
+      common_stats {
+        num_non_missing: 26050
+        min_num_values: 1
+        max_num_values: 1
+        avg_num_values: 1.0
+        num_values_histogram {
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          type: QUANTILES
+        }
+        tot_num_values: 26050
+      }
+      unique: 3
+      top_values {
+        value: "Male"
+        frequency: 17410.0
+      }
+      top_values {
+        value: "Female"
+        frequency: 8639.0
+      }
+      top_values {
+        value: "sex"
+        frequency: 1.0
+      }
+      avg_length: 4.6632247
+      rank_histogram {
+        buckets {
+          label: "Male"
+          sample_count: 17410.0
+        }
+        buckets {
+          low_rank: 1
+          high_rank: 1
+          label: "Female"
+          sample_count: 8639.0
+        }
+        buckets {
+          low_rank: 2
+          high_rank: 2
+          label: "sex"
+          sample_count: 1.0
+        }
+      }
+    }
+    path {
+      step: "sex"
+    }
+  }
+  features {
+    type: FLOAT
+    num_stats {
+      common_stats {
+        num_non_missing: 26049
+        num_missing: 1
+        min_num_values: 1
+        max_num_values: 1
+        avg_num_values: 1.0
+        num_values_histogram {
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          type: QUANTILES
+        }
+        tot_num_values: 26049
+      }
+      mean: 1067.9722446159162
+      std_dev: 7352.878088794908
+      num_zeros: 23912
+      max: 99999.0
+      histograms {
+        buckets {
+          high_value: 9999.9
+          sample_count: 25448.03024691382
+        }
+        buckets {
+          low_value: 9999.9
+          high_value: 19999.8
+          sample_count: 430.5572412380784
+        }
+        buckets {
+          low_value: 19999.8
+          high_value: 29999.699999999997
+          sample_count: 40.79862960803487
+        }
+        buckets {
+          low_value: 29999.699999999997
+          high_value: 39999.6
+          sample_count: 4.889568693328946
+        }
+        buckets {
+          low_value: 39999.6
+          high_value: 49999.5
+          sample_count: 3.8540522578295704
+        }
+        buckets {
+          low_value: 49999.5
+          high_value: 59999.399999999994
+          sample_count: 3.8540522578295673
+        }
+        buckets {
+          low_value: 59999.399999999994
+          high_value: 69999.3
+          sample_count: 3.854052257829573
+        }
+        buckets {
+          low_value: 69999.3
+          high_value: 79999.2
+          sample_count: 3.8540522578295673
+        }
+        buckets {
+          low_value: 79999.2
+          high_value: 89999.09999999999
+          sample_count: 3.8540522578295673
+        }
+        buckets {
+          low_value: 89999.09999999999
+          high_value: 99999.0
+          sample_count: 105.45405225782957
+        }
+      }
+      histograms {
+        buckets {
+          sample_count: 2656.8888888888887
+        }
+        buckets {
+          sample_count: 2656.8888888888887
+        }
+        buckets {
+          sample_count: 2656.8888888888887
+        }
+        buckets {
+          sample_count: 2656.8888888888887
+        }
+        buckets {
+          sample_count: 2656.8888888888887
+        }
+        buckets {
+          sample_count: 2656.8888888888887
+        }
+        buckets {
+          sample_count: 2656.8888888888887
+        }
+        buckets {
+          sample_count: 2656.8888888888887
+        }
+        buckets {
+          sample_count: 2656.8888888888887
+        }
+        buckets {
+          high_value: 99999.0
+          sample_count: 2137.0
+        }
+        type: QUANTILES
+      }
+    }
+    path {
+      step: "capital-gain"
+    }
+  }
+  features {
+    type: FLOAT
+    num_stats {
+      common_stats {
+        num_non_missing: 26049
+        num_missing: 1
+        min_num_values: 1
+        max_num_values: 1
+        avg_num_values: 1.0
+        num_values_histogram {
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          type: QUANTILES
+        }
+        tot_num_values: 26049
+      }
+      mean: 86.38657913931436
+      std_dev: 400.57545850880626
+      num_zeros: 24847
+      max: 4356.0
+      histograms {
+        buckets {
+          high_value: 435.6
+          sample_count: 24857.837542662437
+        }
+        buckets {
+          low_value: 435.6
+          high_value: 871.2
+          sample_count: 13.380204778156997
+        }
+        buckets {
+          low_value: 871.2
+          high_value: 1306.8000000000002
+          sample_count: 29.893644964790273
+        }
+        buckets {
+          low_value: 1306.8000000000002
+          high_value: 1742.4
+          sample_count: 346.28767301549743
+        }
+        buckets {
+          low_value: 1742.4
+          high_value: 2178.0
+          sample_count: 634.1009345794392
+        }
+        buckets {
+          low_value: 2178.0
+          high_value: 2613.6000000000004
+          sample_count: 146.16844741235394
+        }
+        buckets {
+          low_value: 2613.6000000000004
+          high_value: 3049.2000000000003
+          sample_count: 5.332888146911518
+        }
+        buckets {
+          low_value: 3049.2000000000003
+          high_value: 3484.8
+          sample_count: 5.332888146911518
+        }
+        buckets {
+          low_value: 3484.8
+          high_value: 3920.4
+          sample_count: 5.332888146911518
+        }
+        buckets {
+          low_value: 3920.4
+          high_value: 4356.0
+          sample_count: 5.332888146911518
+        }
+      }
+      histograms {
+        buckets {
+          sample_count: 2760.777777777778
+        }
+        buckets {
+          sample_count: 2760.777777777778
+        }
+        buckets {
+          sample_count: 2760.777777777778
+        }
+        buckets {
+          sample_count: 2760.777777777778
+        }
+        buckets {
+          sample_count: 2760.777777777778
+        }
+        buckets {
+          sample_count: 2760.777777777778
+        }
+        buckets {
+          sample_count: 2760.777777777778
+        }
+        buckets {
+          sample_count: 2760.777777777778
+        }
+        buckets {
+          sample_count: 2760.777777777778
+        }
+        buckets {
+          high_value: 4356.0
+          sample_count: 1202.0
+        }
+        type: QUANTILES
+      }
+    }
+    path {
+      step: "capital-loss"
+    }
+  }
+  features {
+    type: FLOAT
+    num_stats {
+      common_stats {
+        num_non_missing: 26049
+        num_missing: 1
+        min_num_values: 1
+        max_num_values: 1
+        avg_num_values: 1.0
+        num_values_histogram {
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2604.9
+          }
+          type: QUANTILES
+        }
+        tot_num_values: 26049
+      }
+      mean: 40.42208913969826
+      std_dev: 12.284733038149904
+      min: 1.0
+      median: 40.0
+      max: 99.0
+      histograms {
+        buckets {
+          low_value: 1.0
+          high_value: 10.8
+          sample_count: 592.5999999999998
+        }
+        buckets {
+          low_value: 10.8
+          high_value: 20.6
+          sample_count: 1727.9999999999986
+        }
+        buckets {
+          low_value: 20.6
+          high_value: 30.400000000000002
+          sample_count: 1856.0500000000009
+        }
+        buckets {
+          low_value: 30.400000000000002
+          high_value: 40.2
+          sample_count: 14250.549999999965
+        }
+        buckets {
+          low_value: 40.2
+          high_value: 50.0
+          sample_count: 4746.800000000009
+        }
+        buckets {
+          low_value: 50.0
+          high_value: 59.800000000000004
+          sample_count: 846.4600000000004
+        }
+        buckets {
+          low_value: 59.800000000000004
+          high_value: 69.60000000000001
+          sample_count: 1426.3400000000013
+        }
+        buckets {
+          low_value: 69.60000000000001
+          high_value: 79.4
+          sample_count: 347.0399999999999
+        }
+        buckets {
+          low_value: 79.4
+          high_value: 89.2
+          sample_count: 162.95999999999998
+        }
+        buckets {
+          low_value: 89.2
+          high_value: 99.0
+          sample_count: 92.19999999999999
+        }
+      }
+      histograms {
+        buckets {
+          low_value: 1.0
+          high_value: 25.0
+          sample_count: 3143.0
+        }
+        buckets {
+          low_value: 25.0
+          high_value: 35.0
+          sample_count: 2352.0
+        }
+        buckets {
+          low_value: 35.0
+          high_value: 40.0
+          sample_count: 2585.2
+        }
+        buckets {
+          low_value: 40.0
+          high_value: 40.0
+          sample_count: 2585.2
+        }
+        buckets {
+          low_value: 40.0
+          high_value: 40.0
+          sample_count: 2585.2
+        }
+        buckets {
+          low_value: 40.0
+          high_value: 40.0
+          sample_count: 2585.2
+        }
+        buckets {
+          low_value: 40.0
+          high_value: 40.0
+          sample_count: 2585.2
+        }
+        buckets {
+          low_value: 40.0
+          high_value: 48.0
+          sample_count: 2468.0
+        }
+        buckets {
+          low_value: 48.0
+          high_value: 55.0
+          sample_count: 3001.0
+        }
+        buckets {
+          low_value: 55.0
+          high_value: 99.0
+          sample_count: 2159.0
+        }
+        type: QUANTILES
+      }
+    }
+    path {
+      step: "hours-per-week"
+    }
+  }
+  features {
+    type: STRING
+    string_stats {
+      common_stats {
+        num_non_missing: 25577
+        num_missing: 473
+        min_num_values: 1
+        max_num_values: 1
+        avg_num_values: 1.0
+        num_values_histogram {
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2557.7
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2557.7
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2557.7
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2557.7
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2557.7
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2557.7
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2557.7
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2557.7
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2557.7
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2557.7
+          }
+          type: QUANTILES
+        }
+        tot_num_values: 25577
+      }
+      unique: 42
+      top_values {
+        value: "United-States"
+        frequency: 23339.0
+      }
+      top_values {
+        value: "Mexico"
+        frequency: 514.0
+      }
+      top_values {
+        value: "Philippines"
+        frequency: 155.0
+      }
+      top_values {
+        value: "Germany"
+        frequency: 107.0
+      }
+      top_values {
+        value: "Canada"
+        frequency: 103.0
+      }
+      top_values {
+        value: "El-Salvador"
+        frequency: 87.0
+      }
+      top_values {
+        value: "Puerto-Rico"
+        frequency: 86.0
+      }
+      top_values {
+        value: "India"
+        frequency: 80.0
+      }
+      top_values {
+        value: "England"
+        frequency: 77.0
+      }
+      top_values {
+        value: "Cuba"
+        frequency: 72.0
+      }
+      top_values {
+        value: "Jamaica"
+        frequency: 66.0
+      }
+      top_values {
+        value: "China"
+        frequency: 66.0
+      }
+      top_values {
+        value: "South"
+        frequency: 65.0
+      }
+      top_values {
+        value: "Dominican-Republic"
+        frequency: 59.0
+      }
+      top_values {
+        value: "Vietnam"
+        frequency: 57.0
+      }
+      top_values {
+        value: "Italy"
+        frequency: 54.0
+      }
+      top_values {
+        value: "Japan"
+        frequency: 49.0
+      }
+      top_values {
+        value: "Guatemala"
+        frequency: 49.0
+      }
+      top_values {
+        value: "Columbia"
+        frequency: 49.0
+      }
+      top_values {
+        value: "Poland"
+        frequency: 48.0
+      }
+      avg_length: 12.50389
+      rank_histogram {
+        buckets {
+          label: "United-States"
+          sample_count: 23339.0
+        }
+        buckets {
+          low_rank: 1
+          high_rank: 1
+          label: "Mexico"
+          sample_count: 514.0
+        }
+        buckets {
+          low_rank: 2
+          high_rank: 2
+          label: "Philippines"
+          sample_count: 155.0
+        }
+        buckets {
+          low_rank: 3
+          high_rank: 3
+          label: "Germany"
+          sample_count: 107.0
+        }
+        buckets {
+          low_rank: 4
+          high_rank: 4
+          label: "Canada"
+          sample_count: 103.0
+        }
+        buckets {
+          low_rank: 5
+          high_rank: 5
+          label: "El-Salvador"
+          sample_count: 87.0
+        }
+        buckets {
+          low_rank: 6
+          high_rank: 6
+          label: "Puerto-Rico"
+          sample_count: 86.0
+        }
+        buckets {
+          low_rank: 7
+          high_rank: 7
+          label: "India"
+          sample_count: 80.0
+        }
+        buckets {
+          low_rank: 8
+          high_rank: 8
+          label: "England"
+          sample_count: 77.0
+        }
+        buckets {
+          low_rank: 9
+          high_rank: 9
+          label: "Cuba"
+          sample_count: 72.0
+        }
+        buckets {
+          low_rank: 10
+          high_rank: 10
+          label: "Jamaica"
+          sample_count: 66.0
+        }
+        buckets {
+          low_rank: 11
+          high_rank: 11
+          label: "China"
+          sample_count: 66.0
+        }
+        buckets {
+          low_rank: 12
+          high_rank: 12
+          label: "South"
+          sample_count: 65.0
+        }
+        buckets {
+          low_rank: 13
+          high_rank: 13
+          label: "Dominican-Republic"
+          sample_count: 59.0
+        }
+        buckets {
+          low_rank: 14
+          high_rank: 14
+          label: "Vietnam"
+          sample_count: 57.0
+        }
+        buckets {
+          low_rank: 15
+          high_rank: 15
+          label: "Italy"
+          sample_count: 54.0
+        }
+        buckets {
+          low_rank: 16
+          high_rank: 16
+          label: "Japan"
+          sample_count: 49.0
+        }
+        buckets {
+          low_rank: 17
+          high_rank: 17
+          label: "Guatemala"
+          sample_count: 49.0
+        }
+        buckets {
+          low_rank: 18
+          high_rank: 18
+          label: "Columbia"
+          sample_count: 49.0
+        }
+        buckets {
+          low_rank: 19
+          high_rank: 19
+          label: "Poland"
+          sample_count: 48.0
+        }
+        buckets {
+          low_rank: 20
+          high_rank: 20
+          label: "Taiwan"
+          sample_count: 41.0
+        }
+        buckets {
+          low_rank: 21
+          high_rank: 21
+          label: "Haiti"
+          sample_count: 33.0
+        }
+        buckets {
+          low_rank: 22
+          high_rank: 22
+          label: "Iran"
+          sample_count: 32.0
+        }
+        buckets {
+          low_rank: 23
+          high_rank: 23
+          label: "Portugal"
+          sample_count: 30.0
+        }
+        buckets {
+          low_rank: 24
+          high_rank: 24
+          label: "Nicaragua"
+          sample_count: 30.0
+        }
+        buckets {
+          low_rank: 25
+          high_rank: 25
+          label: "Peru"
+          sample_count: 26.0
+        }
+        buckets {
+          low_rank: 26
+          high_rank: 26
+          label: "France"
+          sample_count: 24.0
+        }
+        buckets {
+          low_rank: 27
+          high_rank: 27
+          label: "Greece"
+          sample_count: 22.0
+        }
+        buckets {
+          low_rank: 28
+          high_rank: 28
+          label: "Ecuador"
+          sample_count: 21.0
+        }
+        buckets {
+          low_rank: 29
+          high_rank: 29
+          label: "Ireland"
+          sample_count: 20.0
+        }
+        buckets {
+          low_rank: 30
+          high_rank: 30
+          label: "Trinadad&Tobago"
+          sample_count: 16.0
+        }
+        buckets {
+          low_rank: 31
+          high_rank: 31
+          label: "Laos"
+          sample_count: 13.0
+        }
+        buckets {
+          low_rank: 32
+          high_rank: 32
+          label: "Thailand"
+          sample_count: 12.0
+        }
+        buckets {
+          low_rank: 33
+          high_rank: 33
+          label: "Outlying-US(Guam-USVI-etc)"
+          sample_count: 12.0
+        }
+        buckets {
+          low_rank: 34
+          high_rank: 34
+          label: "Cambodia"
+          sample_count: 12.0
+        }
+        buckets {
+          low_rank: 35
+          high_rank: 35
+          label: "Yugoslavia"
+          sample_count: 11.0
+        }
+        buckets {
+          low_rank: 36
+          high_rank: 36
+          label: "Hong"
+          sample_count: 11.0
+        }
+        buckets {
+          low_rank: 37
+          high_rank: 37
+          label: "Honduras"
+          sample_count: 10.0
+        }
+        buckets {
+          low_rank: 38
+          high_rank: 38
+          label: "Hungary"
+          sample_count: 9.0
+        }
+        buckets {
+          low_rank: 39
+          high_rank: 39
+          label: "Scotland"
+          sample_count: 8.0
+        }
+        buckets {
+          low_rank: 40
+          high_rank: 40
+          label: "native-country"
+          sample_count: 1.0
+        }
+        buckets {
+          low_rank: 41
+          high_rank: 41
+          label: "Holand-Netherlands"
+          sample_count: 1.0
+        }
+      }
+    }
+    path {
+      step: "native-country"
+    }
+  }
+  features {
+    type: STRING
+    string_stats {
+      common_stats {
+        num_non_missing: 26050
+        min_num_values: 1
+        max_num_values: 1
+        avg_num_values: 1.0
+        num_values_histogram {
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          buckets {
+            low_value: 1.0
+            high_value: 1.0
+            sample_count: 2605.0
+          }
+          type: QUANTILES
+        }
+        tot_num_values: 26050
+      }
+      unique: 3
+      top_values {
+        value: "<=50K"
+        frequency: 19782.0
+      }
+      top_values {
+        value: ">50K"
+        frequency: 6267.0
+      }
+      top_values {
+        value: "label"
+        frequency: 1.0
+      }
+      avg_length: 4.759424
+      rank_histogram {
+        buckets {
+          label: "<=50K"
+          sample_count: 19782.0
+        }
+        buckets {
+          low_rank: 1
+          high_rank: 1
+          label: ">50K"
+          sample_count: 6267.0
+        }
+        buckets {
+          low_rank: 2
+          high_rank: 2
+          label: "label"
+          sample_count: 1.0
+        }
+      }
+    }
+    path {
+      step: "label"
+    }
+  }
+}
